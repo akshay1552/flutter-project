@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761544969",
+    "project_id": "futurescape-e990a",
+    "storage_bucket": "futurescape-e990a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761544969:android:b5310cb896627784df13d8",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761544969-jr3gm40kc1g86l53nme3o0pct7tjadvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAt_DWOKJ59Wqnanrw5Nzs83UQphG7DeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761544969-jr3gm40kc1g86l53nme3o0pct7tjadvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
